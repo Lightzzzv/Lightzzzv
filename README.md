@@ -1,5 +1,5 @@
 
-## Languages I currently know are listed below.
+## Languages/What I know currently are listed below.
 
   <img src="https://cdn.discordapp.com/attachments/959960084140683264/997333918208495686/c.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
