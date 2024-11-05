@@ -1,7 +1,6 @@
+## Discord Server
 
-## Languages/What I know know fully are listed below.
-
-  <img src="https://cdn.discordapp.com/attachments/959960084140683264/997333918208495686/c.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+https://discord.gg/goof
 
 ## Display of account activity below...
 
